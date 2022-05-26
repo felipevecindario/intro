@@ -1,6 +1,6 @@
 # 
    
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aakash Sinha!](https://www.linkedin.com/in/aakash9868sinha/) 
+## Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Soy [Felipe Alzate!](https://www.linkedin.com/in/aakash9868sinha/) 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,27 +15,23 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.linkedin.com/in/aakash9868sinha/">
+<a href="https://www.linkedin.com/in/felipealz/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/isupersky">
+<a href="https://twitter.com/jnoiseofficial">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:mailtomeaakash@gmail.com">
+<a href="mailto:juan.alzate@vecindario.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://isupersky.medium.com/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 <br />
 
+<!--
 ### About Me 🚀
 🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+-->
 
 <!--
 ### My Experiences 🙌
