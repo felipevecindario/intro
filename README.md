@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
+<!--
 ### My Experiences 🙌
 - [Software Develpment Engineer (FreeCharge)](https://www.freecharge.in/) - (Jul'21-Present)
 - [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present)
@@ -51,5 +52,7 @@ Here are some ideas to get you started:
 - [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
 - [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
 <br/>
+
+-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=intro.intro)
